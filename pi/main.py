@@ -5,5 +5,5 @@ def main(msg):
     # A second comment
 main("Hello people")
     # print a message
-main("Hello people")
-
+def secondary():
+    print("New function")
