@@ -2,5 +2,5 @@
 
 def main(msg):
     print(msg)
-
+    # A second comment
 main("Hello people")
